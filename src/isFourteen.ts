@@ -1,0 +1,1 @@
+export const isFourteen = (x: number) => x === 14
