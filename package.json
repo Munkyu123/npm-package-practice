@@ -1,5 +1,6 @@
 {
   "name": "moonformeli-my-first-npm-package-practice",
+  "version": "0.0.1",
   "scripts": {
     "build": "tsc",
     "prepare": "yarn build"
